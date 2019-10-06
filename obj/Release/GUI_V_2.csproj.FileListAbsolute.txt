@@ -1,0 +1,10 @@
+G:\Проекты C#\GUI_V_2\bin\Release\GUI_V_2.exe.config
+G:\Проекты C#\GUI_V_2\bin\Release\GUI_V_2.exe
+G:\Проекты C#\GUI_V_2\bin\Release\GUI_V_2.pdb
+G:\Проекты C#\GUI_V_2\obj\Release\GUI_V_2.csprojAssemblyReference.cache
+G:\Проекты C#\GUI_V_2\obj\Release\GUI_V_2.Form1.resources
+G:\Проекты C#\GUI_V_2\obj\Release\GUI_V_2.Properties.Resources.resources
+G:\Проекты C#\GUI_V_2\obj\Release\GUI_V_2.csproj.GenerateResource.cache
+G:\Проекты C#\GUI_V_2\obj\Release\GUI_V_2.csproj.CoreCompileInputs.cache
+G:\Проекты C#\GUI_V_2\obj\Release\GUI_V_2.exe
+G:\Проекты C#\GUI_V_2\obj\Release\GUI_V_2.pdb
